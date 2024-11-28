@@ -1,0 +1,15 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+
+  <rect x="0" y="0" id="svg_1" fill="#2C2C32" rx="16" height="128" width="128"/>
+  <rect id="svg_2" fill="#89D185" rx="4" height="56" width="36" y="13" x="17"/>
+  <rect id="svg_3" fill="#4EC9B0" rx="4" height="56" width="36" y="14" x="75"/>
+  <path id="svg_4" fill="none" stroke-width="2.5" stroke="#FFFFFF" d="m58,44l12,0m-4,-4l4,4l-4,4"/>
+  <rect id="svg_5" opacity="0.7" fill="#FFFFFF" height="2" width="24" y="29" x="23"/>
+  <rect id="svg_6" opacity="0.7" fill="#FFFFFF" height="2" width="20" y="29" x="23"/>
+  <rect id="svg_7" opacity="0.7" fill="#FFFFFF" height="2" width="22" y="35" x="23"/>
+  <rect id="svg_8" opacity="0.7" fill="#FFFFFF" height="2" width="24" y="30" x="81"/>
+  <rect id="svg_9" opacity="0.7" fill="#FFFFFF" height="2" width="20" y="30" x="81"/>
+  <rect id="svg_10" opacity="0.7" fill="#FFFFFF" height="2" width="22" y="36" x="81"/>
+  <text stroke="null" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="18" stroke-width="0" id="svg_11" y="92" x="27" fill="#ffffff">Document</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="18" stroke-width="0" id="svg_12" y="113" x="28" fill="#ffffff">Translator</text>
+</svg>
