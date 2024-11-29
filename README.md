@@ -1,6 +1,6 @@
 # Introduction
 
-**Documment Translator** aims to easier the effort to translate Hugo documentation using VS Code.
+**Document Translator** aims to easier the effort to translate Hugo documentation using VS Code.
 
 ## Features
 
@@ -59,5 +59,6 @@ If you encounter any issues not listed here, please report them on our [GitHub i
 ### v0.0.1
 
 Initial release of Document Translator.
+Add a **Translate** context menu to translate [Hugo](https://gohugo.io) document using **Google Translate**.
 
 **Enjoy!**
